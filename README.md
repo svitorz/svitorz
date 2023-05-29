@@ -37,7 +37,7 @@
 <p>
 
 <a href="https://www.instagram.com/svitorz/"><img src="https://img.shields.io/badge/-Instagram-020114?style=for-the-badge&amp;logo=instagram&amp;logoColor=EBD03E&amp;color:FFF" alt="Instagram"></a>
-	<a href="https://www.linkedin.com/in/svitorz"><img src="https://img.shields.io/badge/-Linkedin-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="Linkedin"></a>
+	<a href="https://www.linkedin.com/in/vitor-f%C3%A1bio-873357246"><img src="https://img.shields.io/badge/-Linkedin-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="Linkedin"></a>
   <a href="https://twitter.com/svitorz"><img src="https://img.shields.io/badge/-Twitter-020114?style=for-the-badge&amp;logo=twitter&amp;logoColor=EBD03E&amp;color:FFF" alt="Twitter"></a>
    <a href="mailto:vitorfabiocs@gmail.com">
 <img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=gmail&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
