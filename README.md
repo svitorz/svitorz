@@ -68,7 +68,7 @@
 
 ## 📌 &nbsp;Pinned Repositories
 
-<table>
+<!-- <table>
 	<thead>
 		<tr>
 			<th colspan="2" width="2000">&nbsp;</th>
@@ -98,15 +98,15 @@
 			</td>
 		</tr>
 	</tbody>
-</table>
+</table> -->
 
 
 ## 📊 &nbsp;Stats
 
 <h3 align="left">GitHub Stats</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ViictorWebTech&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ViictorWebTech&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=10&show_icons=true&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/elidianaandrade/github-readme-stats)
+![Anurag's GitHub stats]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svitorz)](https://github.com/svitorz/github-readme-stats))
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=svitorz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=10&show_icons=true&title_color=7520FF&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/svitorz/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ViictorWebTech&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B)](https://git.io/streak-stats)
 
