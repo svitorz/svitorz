@@ -77,7 +77,7 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/ViictorWebTech/curriculum-vitae">
+			<a href="https://github.com/svitorzTech/curriculum-vitae">
       <img src="https://github.com/felipeAguiarCode/felipeAguiarCode/raw/master/.github/assets/documentation.png" />
       </a>
       </td>
