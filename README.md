@@ -15,19 +15,24 @@
   <p>- ☑️  Algoritmo e Programação (Lógica de Programação); </p>
   <p>- ☑️  Desenvolvimento de Web Sites I | HTML, CSS e JavaScript; </p>
   <p>- ☑️  Gerenciamento de Banco de Dados I | PostgreSQL; </p>
-  <p>- ☑️ Hardware. </p>
+  <p>- ☑️  Hardware. </p>
   <p>- ☑️ Sistemas Operacionais e Terminal Linux; </p>
+  <p>-  ☑️ Análise e Projeto de Sistemas </p>
+  <p>-  ☑️ Desenvolvimento de Web Sites II; </p>
+  <p>-  ☑️ Gerenciamento de Banco de Dados II; </p>
+  <p>-  ☑️ Linguagem de Programação; </p>
+  <p>-  ☑️ Projeto Integrador II; </p>
+  <p>-  ☑️ Redes de Computadores; </p>
 	</div>
    <div align="center">
   <h3>- 🖥️ Em Andamento: </h3>
 	</div>
+  <p> 🔲 Segurança da informação; </p>
+  <p>🔲 Linguagem de programação II; </p>
+  <p>🔲 Gestão de inovação e empreendedorismo; </p>
+  <p>🔲 Tópicos avançados em tecnologia da informação; </p>
+  <p>🔲 Projeto Integrador III; </p>
 	 <div align="center">
-  <p>- 🔲 Análise e Projeto de Sistemas </p>
-  <p>- 🔲 Desenvolvimento de Web Sites II; </p>
-  <p>- 🔲 Gerenciamento de Banco de Dados II; </p>
-  <p>- 🔲 Linguagem de Programação; </p>
-  <p>- 🔲 Projeto Integrador; </p>
-  <p>- 🔲 Redes de Computadores. </p>
 </div>
 <h3 align="center">
   Connect with me
@@ -61,9 +66,11 @@
 
 ### ⚡ &nbsp;Database 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ECE2FB?style=for-the-badge&logo=postgresql)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
 
 ### 📚 &nbsp;Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/laravel-%238511FA.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 
 ## 📌 &nbsp;Pinned Repositories
