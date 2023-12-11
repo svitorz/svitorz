@@ -7,8 +7,7 @@
 
   
   <h2>- 📖 Curso Integrado de Informática // Instituto Federal de São Paulo</h2>
-  <p>- 🖥️ Estudando Linguagens de Marcação | HTML5, CSS3</p>
-  <p>- 🖥️ Estudando Linguagem de Programação | Java, PHP</p>
+  <p>- 🖥️ Estudando Frameworks para Web | Laravel , onRails, Spring, Django</p>
   <h3>- 🖥️ Concluído: </h3>
 	</div>
 	 <div align="center">
@@ -75,7 +74,7 @@
 
 ## 📌 &nbsp;Pinned Repositories
 
-<!-- <table>
+<table>
 	<thead>
 		<tr>
 			<th colspan="2" width="2000">&nbsp;</th>
@@ -105,7 +104,7 @@
 			</td>
 		</tr>
 	</tbody>
-</table> -->
+</table>
 
 
 ## 📊 &nbsp;Stats
