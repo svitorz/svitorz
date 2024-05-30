@@ -7,7 +7,7 @@
 
   
   <h2>- 📖 Curso Integrado de Informática // Instituto Federal de São Paulo</h2>
-  <p>- 🖥️ Estudando Frameworks para Web | Laravel , onRails, Spring, Django</p>
+  <p>- 🖥️ Estudando Frameworks para Web | Laravel </p>
   <h3>- 🖥️ Concluído: </h3>
 	</div>
 	 <div align="center">
