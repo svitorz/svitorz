@@ -69,8 +69,8 @@
 
 ### 📚 &nbsp;Frameworks
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/laravel-%238511FA.svg?style=for-the-badge&logo=tailwind&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/laravel-%238511FA.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-
 
 ## 📌 &nbsp;Pinned Repositories
 
