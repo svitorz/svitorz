@@ -1,11 +1,38 @@
-# Hello World, I'm Vitor Fábio!
+# Hi there! 👋
 
-"Fearless"
+Welcome to my GitHub profile! I'm **Vitor Fábio de Castro Souza**, a passionate **full-stack developer** with a strong background in software and web development. I enjoy building applications, solving complex problems, and contributing to open-source projects.
 
-(In love with Laravel and VueJS)
-![svitorz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=svitorz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-## Connect with me
+## 🚀 About Me
+- 🌟 Full-stack developer with experience in **Laravel**, **Livewire**, **JavaScript**, **Java**, and **Python**.
+- 💻 Proficient in databases like **PostgreSQL** and **MySQL**.
+- 🎨 Skilled in **Tailwind CSS**, **Bootstrap**, and responsive design.
+- 🔍 Adept at using **Linux**, **Docker**, and modern development workflows.
+- 📚 Strong knowledge of **Object-Oriented Programming (OOP)**, **UML**, and **MVC architecture**.
+- 🧑‍🤝‍🧑 Team player with experience in agile environments and excellent collaboration skills.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/svitorz) 
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/svitorz)
+## 📌 Featured Projects
+### [Meeting Faces](https://github.com/svitorz/meeting_faces)
+A web application built with **Laravel 11**, **Livewire**, and **PostgreSQL**, designed for seamless user interaction and data management.
+
+### [Meeting Faces (Legacy)](https://github.com/svitorz/meetingfaces)
+The initial version of Meeting Faces, showcasing the project's evolution and foundational ideas.
+
+## 🛠️ Technologies & Tools
+- **Languages:** PHP, JavaScript, Java, Python
+- **Frameworks:** Laravel, Livewire, Spring Boot, Vue
+- **Frontend Tools:** Tailwind CSS, Bootstrap, Vite
+- **Databases:** PostgreSQL, MySQL
+- **Development Tools:** Docker, Git, GitHub, Linux
+- **Other Skills:** Network security, hardware knowledge, and application debugging
+
+## 🎓 Recent Highlights
+- Presented my research project **"Affective Computing: A study based on human-computer interaction"** at the **Encontro de Pesquisadores - Unifacef**.
+- Contributed to innovative solutions during my academic and professional journey.
+
+## 📫 Contact Me
+- **Email:** [vitor.fabio.castro@gmail.com](mailto:vitor.fabio.castro@gmail.com)
+- **GitHub:** [github.com/svitorz](https://github.com/svitorz)
+- **LinkedIn:** [linkedin.com/in/svitorz](https://linkedin.com/in/svitorz)
+
+Feel free to explore my repositories and reach out for collaboration opportunities or discussions on exciting ideas! Let's build something amazing together! 🚀
 
