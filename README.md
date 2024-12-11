@@ -11,10 +11,10 @@ Welcome to my GitHub profile! I'm **Vitor Fábio de Castro Souza**, a passionate
 - 🧑‍🤝‍🧑 Team player with experience in agile environments and excellent collaboration skills.
 
 ## 📌 Featured Projects
-### [Meeting Faces](https://github.com/svitorz/meeting_faces)
+### [Meeting Faces](https://github.com/svitorz/meetingfaces)
 A web application built with **Laravel 11**, **Livewire**, and **PostgreSQL**, designed for seamless user interaction and data management.
 
-### [Meeting Faces (Legacy)](https://github.com/svitorz/meetingfaces)
+### [Meeting Faces (Legacy)](https://github.com/svitorz/meeting_faces)
 The initial version of Meeting Faces, showcasing the project's evolution and foundational ideas.
 
 ## 🛠️ Technologies & Tools
