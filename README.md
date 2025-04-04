@@ -44,3 +44,5 @@ The initial version of Meeting Faces, showcasing the project's evolution and fou
 - **LinkedIn:** [linkedin.com/in/svitorz](https://linkedin.com/in/svitorz)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or discussions on exciting ideas! Let's build something amazing together! 🚀
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svitorz&layout=compact&langs_count=8&theme=radical)
