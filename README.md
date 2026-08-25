@@ -34,7 +34,7 @@ Music, cinema, games and basketball. I also keep coming back to networks, operat
 
 ## Find me
 
-<a href="https://dev.to/svitorz"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" width="22" alt="DEV Community" /></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/svitorz"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22" alt="LinkedIn" /></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/svitorz)
+[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/svitorz)
 
 <sub>Based in Votuporanga, São Paulo, Brazil.</sub>
